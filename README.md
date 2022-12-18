@@ -1,5 +1,3 @@
 # Personal Website
 
-This is a website that describes everything about me — my hobbies, projects, and passions.
-
-The website is hosted through Github Pages: https://18leij2.github.io/personal-website/
+This is a website design that describes me, made for the LMC2700 personal website assignment. It is hosted [here](https://18leij2.github.io/personal-website/).
